@@ -1,16 +1,37 @@
-The main goal of the CARLA Autonomous Driving Leaderboard is to evaluate the driving proficiency of autonomous agents in realistic traffic situations. The leaderboard serves as an open platform for the community to perform fair and reproducible evaluations, simplifying the comparison between different approaches.
+## Welcome to GitHub Pages
 
-Autonomous agents have to drive through a set of predefined routes. For each route, agents are initialized at a starting point and have to drive to a destination point. The agents will be provided with a description of the route. Routes will happen in a variety of areas, including freeways, urban scenes, and residential districts.
+You can use the [editor on GitHub](https://github.com/carla-simulator/leaderboard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Agents will face multiple traffic situations based in the NHTSA typology, such as:
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* Lane merging
-* Lane changing
-* Negotiations at traffic intersections
-* Negotiations at roundabouts
-* Handling traffic lights and traffic signs
-* Coping with pedestrians, cyclists and other elements
+### Markdown
 
-The user can change the weather of the simulation, allowing the evaluation of the agent in a variety of weather conditions, including daylight scenes, sunset, rain, fog, and night, among others.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-More information can be found [here](https://leaderboard.carla.org/)
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carla-simulator/leaderboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
